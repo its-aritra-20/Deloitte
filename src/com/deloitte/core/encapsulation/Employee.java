@@ -1,4 +1,4 @@
-package com.deloitte.encapsulation;
+package com.deloitte.core.encapsulation;
 
 abstract class Employee {
 	int eid;

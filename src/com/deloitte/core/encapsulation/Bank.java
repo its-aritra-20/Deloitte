@@ -1,4 +1,4 @@
-package com.deloitte.encapsulation;
+package com.deloitte.core.encapsulation;
 
 public class Bank extends Account{
 	protected void trx() {

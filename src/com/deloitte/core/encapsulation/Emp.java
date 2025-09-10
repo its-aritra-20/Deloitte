@@ -1,4 +1,4 @@
-package com.deloitte.encapsulation;
+package com.deloitte.core.encapsulation;
 
 public class Emp {
 	int eid;
